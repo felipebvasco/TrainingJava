@@ -1,2 +1,2 @@
-# TrainingJava
-Derusting and learning Spring for Java
+# TrainingJava - 1
+Derusting for logic 
